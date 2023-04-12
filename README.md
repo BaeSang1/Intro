@@ -3,7 +3,6 @@
   * 이름 : 배상일
   * 출생 : 1993.01.11
   * MBTI : ISTJ
-  * 혈액형 : O형
   * 이메일 : tkddlf288@gmail.com
   * 블로그 : https://github.com/BaeSang1/BaeSang
 
